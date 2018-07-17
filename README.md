@@ -15,7 +15,6 @@ require: {
 
 ### Examples
 
-```
 
 This is with Nearphp installed via composer.
 
